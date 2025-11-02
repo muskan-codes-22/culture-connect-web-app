@@ -3,19 +3,19 @@
 // ============================
 const hiddenGemsData = {
   Delhi: [
-    { name: "Sunset at Hauz Khas Fort", img: "assets/videos/Hauz-Khas.webp" },
+    { name: "Sunset at Hauz Khas Fort", img: "../assets/videos/Hauz-Khas.webp" },
     {
       name: "Street art walk in Lodhi Colony",
-      img: "assets/images/lodhi-garden.jpg",
+      img: "../assets/images/lodhi-garden.jpg",
     },
-    { name: "Visit Khari Baoli", img: "assets/images/spice.jpg" },
+    { name: "Visit Khari Baoli", img: "../assets/images/spice.jpg" },
   ],
   Jaipur: [
     {
       name: "Stepwell photography at Panna Meena ka Kund",
-      img: "assets/images/kund.jpg",
+      img: "../assets/images/kund.jpg",
     },
-    { name: "Explore Chand Pol Bazaar", img: "assets/360/chand_pol.jpg" },
+    { name: "Explore Chand Pol Bazaar", img: "../assets/360/chand_pol.jpg" },
     { name: "Cycling tour through old city lanes", img: "" },
   ],
   Kerala: [
