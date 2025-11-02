@@ -1,5 +1,6 @@
 # 🪷 Culture Connect  
 ### A Journey Through India’s Heritage and Diversity  
+![Home Page Preview](assets/images/output/landing-page.png)
 
 ---
 
@@ -84,8 +85,15 @@ Simply open index.html in your browser.
 
 ## 📸 Preview
 
-You can add a screenshot later:
-/assets/images/preview.png
+This is landing page 
+![Landing Page Preview](assets/images/output/landing-page.png)
+
+Home page
+![Home Page Preview](assets/images/output/home-page.png)
+
+Passport page
+![Passport Page Preview](assets/images/output/passport-page.png)
+
 
 ## 💡 Motivation
 
