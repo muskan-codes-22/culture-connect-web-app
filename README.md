@@ -60,14 +60,19 @@ It combines interactive design, a mini-quiz, and an engaging layout to make lear
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/muskan-codes-22/Culture-Connect.git
+   git clone https://github.com/muskan-codes-22/culture-connect-web-app.git
    ```
 2. **Open the project folder**
-```
-cd Culture-Connect
-```
-4. **Run the app**
-Simply open index.html in your browser.
+   ```
+   cd culture-connect-web-app
+   ```
+3. Run the App  
+   - Open the project folder  
+   - Locate the file **index.html**
+   - Right-click → **Open With** → **Google Chrome**  
+   _(or drag & drop the `index.html` file into your browser)_
+
+> 💡 Tip: The website is fully static — no server setup or installation required.
 
 ---
 
